@@ -1,3 +1,20 @@
 <resources>
     <string name="app_name">DanaKu</string>
+    <string name="title_home">Beranda</string>
+    <string name="title_income">Pemasukan</string>
+    <string name="title_expense">Pengeluaran</string>
+    <string name="title_category">Master Kategori</string>
+    <string name="empty_categories">Belum ada kategori</string>
+    <string name="action_add">Tambah</string>
+    <string name="action_edit">Ubah</string>
+    <string name="action_delete">Hapus</string>
+    <string name="action_save">Simpan</string>
+    <string name="action_cancel">Batal</string>
+    <string name="category_name_hint">Nama Kategori</string>
+    <string name="delete_confirm_title">Konfirmasi Hapus</string>
+    <string name="delete_category_message">Apakah Anda yakin ingin menghapus kategori ini?</string>
+    <string name="delete_category_blocked_title">Tidak Dapat Dihapus</string>
+    <string name="delete_category_blocked_message">Kategori ini tidak dapat dihapus karena masih digunakan oleh transaksi.</string>
+    <string name="category_already_exists">Kategori dengan nama ini sudah ada.</string>
+    <string name="field_required">Field ini wajib diisi.</string>
 </resources>
